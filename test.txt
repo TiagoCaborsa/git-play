@@ -1,1 +1,4 @@
 Testando squash apos criar uma tag
+Tag criada
+Branch nova
+Alteracao no arquivo
